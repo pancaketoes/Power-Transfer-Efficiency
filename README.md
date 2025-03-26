@@ -50,7 +50,7 @@ Clone the repo,
 
 Install dependencies: pip install -r requirements.txt, 
 
-Run: streamlit run app.py, 
+Run: streamlit run PTEapp.py, 
 
 View dashboard in your browser at http://localhost:8501
 
