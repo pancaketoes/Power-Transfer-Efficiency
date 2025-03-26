@@ -1,6 +1,10 @@
 # Power-Transfer-Efficiency
 (PTE) Dashboard
 
+LIVE APP NOW:
+
+https://power-transfer-efficiency.streamlit.app/
+
 What It Is:
 
 A Streamlit-powered dashboard that analyzes how efficiently MLB hitters convert bat speed into exit velocity. It introduces a custom metric, PTE, calculated as:
